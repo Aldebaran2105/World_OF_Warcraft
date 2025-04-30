@@ -1,0 +1,24 @@
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+ipch/
+*.obj
+*.exe
+*.log
+*.tlog
+*.lastbuildstate
+*.sdf
+*.cache
+*.pdb
+*.idb
+*.class
+*.aps
+*.pch
+*.ilk
+*.exp
+*.ncb
+*.sbr
+*.res
